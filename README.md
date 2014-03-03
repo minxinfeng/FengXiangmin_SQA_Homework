@@ -1,4 +1,7 @@
 FengXiangmin_SQA_Homework
 =========================
 
-The homework project for class SQA of teacher TianSiyuan.
+This project is created for homework of class SQA of teacher TianSiyuan.
+
+FengXiangmin
+Student ID: 13126069
