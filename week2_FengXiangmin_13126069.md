@@ -24,3 +24,14 @@ This chapter introduce the basic concepts of testing and examined various questi
 
 - Functional vs. structural testing techniques, with the former focusing on external functional behavior, the latter on internal implementations. Alternatively, they can be characterized by the ignorance or knowledge of implementation details: Functional testing is also referred to as black-box testing (BBT) because it ignores all implementation details, while structural testing is also referred to as white-box testing (WBT) because the transparent system boundary allows implementation details to be visible and to be used in testing.
 - Usage-based vs. coverage-based stopping criteria and corresponding testing techniques, with the former attempting to reach certain reliability goals by focusing on functions and feature frequently used by target customers, and the latter focusing on attaining certain coverage levels defined internally.
+
+## Rate for 5 classmates
+Yang Rui 13126158 A
+
+Zhu Shuncheng 13126183 A
+
+Huang Mingen 13126083 A
+
+Chu Xiaowei B The format is not good, .md recommended.
+
+Chen Yuting 13126059 A
